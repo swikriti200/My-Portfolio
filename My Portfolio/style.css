@@ -1,0 +1,39 @@
+h1{
+    color:brown
+}
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: centre;
+}
+
+body{
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0,0,0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    text-align: justify;
+    color: rgb(0,0,0);
+    font-family: cursive;
+}
